@@ -1,0 +1,12 @@
+#!/bin/bash
+<<<<<<< HEAD
+
+echo "I am "
+echo "Hello World !!!"
+echo  " hi there"
+
+=======
+echo "hi htere"
+echo "Hello World !!!"
+echo "i am from branchl-2"
+>>>>>>> branch-2
